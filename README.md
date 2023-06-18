@@ -5,33 +5,33 @@
 
 <h2>src folder</h2>
 
-  📦src
- ┣ 📂apis
- ┃ ┗ 📜productlists.js
- ┣ 📂components
- ┃ ┣ 📂brand
- ┃ ┃ ┗ 📜BrandFilterButton.js
- ┃ ┣ 📂product
- ┃ ┃ ┣ 📜FilterButton.js
- ┃ ┃ ┣ 📜ProductItemBox.js
- ┃ ┃ ┗ 📜ProductItems.js
- ┃ ┣ 📂survey
- ┃ ┃ ┣ 📜Result.js
- ┃ ┃ ┣ 📜SurInfoTemplete.js
- ┃ ┃ ┣ 📜SurveyBasic.js
- ┃ ┃ ┗ 📜SurveyQuestion.json
- ┃ ┣ 📜BrandInfoTemplete.js
- ┃ ┣ 📜GlobalStyle.js
- ┃ ┗ 📜NavBar.js
+📦src <br>
+ ┣ 📂apis <br>
+ ┃ ┗ 📜productlists.js <br>
+ ┣ 📂components <br>
+ ┃ ┣ 📂brand <br>
+ ┃ ┃ ┗ 📜BrandFilterButton.js <br>
+ ┃ ┣ 📂product <br>
+ ┃ ┃ ┣ 📜FilterButton.js <br>
+ ┃ ┃ ┣ 📜ProductItemBox.js <br>
+ ┃ ┃ ┗ 📜ProductItems.js <br>
+ ┃ ┣ 📂survey <br>
+ ┃ ┃ ┣ 📜Result.js <br>
+ ┃ ┃ ┣ 📜SurInfoTemplete.js <br>
+ ┃ ┃ ┣ 📜SurveyBasic.js <br>
+ ┃ ┃ ┗ 📜SurveyQuestion.json <br>
+ ┃ ┣ 📜BrandInfoTemplete.js <br>
+ ┃ ┣ 📜GlobalStyle.js <br>
+ ┃ ┗ 📜NavBar.js <br>
  ┣ 📂pages
- ┃ ┣ 📜BrandList.js
- ┃ ┣ 📜DetailPage.js
- ┃ ┣ 📜FindFavor.js
- ┃ ┣ 📜Home.js
- ┃ ┣ 📜MyPage.js
- ┃ ┣ 📜ProductList.js
- ┃ ┣ 📜SearchPage.js
- ┃ ┗ 📜WishList.js
- ┣ 📜App.js
- ┣ 📜index.js
- ┗ 📜reportWebVitals.js
+ ┃ ┣ 📜BrandList.js <br>
+ ┃ ┣ 📜DetailPage.js <br>
+ ┃ ┣ 📜FindFavor.js <br>
+ ┃ ┣ 📜Home.js <br>
+ ┃ ┣ 📜MyPage.js <br>
+ ┃ ┣ 📜ProductList.js <br>
+ ┃ ┣ 📜SearchPage.js <br>
+ ┃ ┗ 📜WishList.js <br>
+ ┣ 📜App.js <br>
+ ┣ 📜index.js <br>
+ ┗ 📜reportWebVitals.js <br>
