@@ -23,7 +23,7 @@
  ┃ ┣ 📜BrandInfoTemplete.js <br>
  ┃ ┣ 📜GlobalStyle.js <br>
  ┃ ┗ 📜NavBar.js <br>
- ┣ 📂pages
+ ┣ 📂pages <br>
  ┃ ┣ 📜BrandList.js <br>
  ┃ ┣ 📜DetailPage.js <br>
  ┃ ┣ 📜FindFavor.js <br>
