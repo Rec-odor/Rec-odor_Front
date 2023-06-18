@@ -4,7 +4,7 @@
 <p>used React</p>
 
 <h2>src folder</h2>
-<div>
+
   📦src
  ┣ 📂apis
  ┃ ┗ 📜productlists.js
@@ -35,4 +35,3 @@
  ┣ 📜App.js
  ┣ 📜index.js
  ┗ 📜reportWebVitals.js
-</div>
